@@ -1,0 +1,19 @@
+.para:hover{
+background: #082A56;
+
+}
+
+.para{
+    width:195px;
+    height:24px;
+    padding-top: 5px;
+    color:#FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Proxima nova;
+    margin:auto;
+    margin-top:8px;
+    cursor:pointer;
+}
+
+/* background: #082A56; */
